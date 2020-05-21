@@ -13,9 +13,7 @@
     "nanoid": "^2.1.1"
   },
   "scripts": {
-    "server": "node src/server.js",
-    "app": "parcel client/index.html --out-dir client/dist",
-    "test-server": "jest api/tests"
+    "server": "node src/server.js"
   },
   "browserslist": {
     "production": [
