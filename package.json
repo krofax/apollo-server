@@ -10,7 +10,7 @@
     "graphql-tag": "^2.10.1",
     "json5": "^2.1.0",
     "lowdb": "^1.0.0",
-    "nanoid": "^2.1.1"
+    "nanoid": "^3.1.31"
   },
   "scripts": {
     "server": "node src/server.js"
